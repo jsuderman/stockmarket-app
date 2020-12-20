@@ -5,7 +5,19 @@ function Stats() {
     return (
         <div className="stats">
             <div className="stats__main">
-                <h2>stats page</h2>
+                <div className="stats__header">
+                    <p>stocks</p> 
+                </div>
+
+                <div className="stats__content">
+                    <div className="stats__rows">
+
+                    </div>
+                </div>
+            
+                <div className="stats__header">
+                    <p>Lists</p>
+                </div>
             </div>
         </div>
     )
