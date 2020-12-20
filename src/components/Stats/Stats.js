@@ -5,7 +5,7 @@ function Stats() {
     return (
         <div className="stats">
             <div className="stats__main">
-
+                <h2>stats page</h2>
             </div>
         </div>
     )

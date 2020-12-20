@@ -2,11 +2,9 @@
    display: flex;
    flex: 0.40;
    background-color: red;
-    
+   width: 100%;
 }
 
-.stats__main {
 
-}
 
     

@@ -2,5 +2,6 @@
     display: flex;
     flex: 0.60;
     background-color: yellowgreen;
+    justify-content: center;
 }
 
