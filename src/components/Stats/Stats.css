@@ -1,0 +1,12 @@
+.stats {
+   display: flex;
+   flex: 0.40;
+   background-color: red;
+    
+}
+
+.stats__main {
+
+}
+
+    

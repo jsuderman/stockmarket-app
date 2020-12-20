@@ -1,12 +1,17 @@
 import './App.css';
 import Header from "./components/Header/Header";
-import Feed from "./components/Feed/Feed"
+import Feed from "./components/Feed/Feed";
+import Stats from "./components/Stats/Stats"
 
 function App() {
   return (
     <div className="app">
       <Header />
-      <Feed />
+      <div className="app__body">
+        <Feed />  
+        <Stats />
+      </div>
+      
       
     </div>
   );
